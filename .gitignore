@@ -1,0 +1,20 @@
+# Ignorar arquivos compilados e de cache do Python
+*.pyc
+__pycache__/
+
+# Ambientes virtuais
+.env
+venv/
+.venv/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
